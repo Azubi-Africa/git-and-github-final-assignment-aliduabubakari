@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Classification-algorithm-on-MNIST-dataset             |  This project involves building various classification (single class and multi-class) algorithms together with various evaluation strategies to recognize handwritten digits from the MNIST Dataset stored in the UCI ML repository (Confusion matrix, precision, accuracy etc)             | https://github.com/aliduabubakari/Classification-algorithm-on-MNIST-dataset       |
+| 2 |  Music-Recommender             |  An unsupervised learning model which analyses music genre and gives predicts genre based on Decision Tree Classifier                          | https://github.com/aliduabubakari/Music-Recommender       |
+| 3 |  California Housing Price             |  The purpose of this project is to build a machine learning model of housing prices in California using the California census data. This data has features such as population, median income, median housing price and so on for each district in California             | https://github.com/aliduabubakari/California-Housing-Price       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
